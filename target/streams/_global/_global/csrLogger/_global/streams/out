@@ -1,0 +1,5 @@
+[debug] downloaded https://repo1.maven.org/maven2/org/codehaus/janino/commons-compiler/3.0.16/commons-compiler-3.0.16.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/spark/spark-sketch_2.11/2.4.6/spark-sketch_2.11-2.4.6.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.2.0/scala-xml_2.11-1.2.0.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/codehaus/janino/janino/3.0.16/janino-3.0.16.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scalactic/scalactic_2.11/3.0.8/scalactic_2.11-3.0.8.jar
